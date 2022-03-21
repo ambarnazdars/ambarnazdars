@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ambarnazdars
 - 👀 I’m interested in writing & testing code
-- 🌱 I’m currently learning selenium
 - 💞️ I’m looking to collaborate on automation frameworks
 - 📫 How to reach me ambarnaz@yahoo.com
 
