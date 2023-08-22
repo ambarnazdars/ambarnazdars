@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ambarnazdars
 - 👀 I’m interested in writing & testing code
 - 💞️ I’m looking to collaborate on automation frameworks
-- 📫 How to reach me ambarnaz@yahoo.com
+- 📫 How to reach me ambarnazdars@gmail.com
 
 <!---
 ambarnazdars/ambarnazdars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
