@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ambarnazdars
+- 👋 Hi, I’m Ambar
 - 💞️ I’m looking to collaborate on automation frameworks
 - 📫 How to reach me ambarnazdars@gmail.com
 
