@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ambarnazdars
-- 👀 I’m interested in writing & testing code
 - 💞️ I’m looking to collaborate on automation frameworks
 - 📫 How to reach me ambarnazdars@gmail.com
 
