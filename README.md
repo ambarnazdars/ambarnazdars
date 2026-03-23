@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ambar
-- 🤖 Full-stack engineer building AI-powered E2E applications
+- 🤖 Full-stack engineer building AI-powered applications
 - 🏗️ Frontend + backend development
 - 🧪 Test automation (Cypress, Playwright)
 - 🔁 CI/CD | API validation | data pipelines
